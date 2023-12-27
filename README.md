@@ -1,2 +1,5 @@
 # python-project
-This is read me file.
+This is a readme file.
+<br>
+we can make changes in the readme file using a basic readme file.
+</br>
